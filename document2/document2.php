@@ -1,5 +1,5 @@
 <?php 
 
-Echo ('salut la famille');  
+echo ('salut la famille, on est dans le document 2');  
 
 ?>
